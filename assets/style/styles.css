@@ -1,0 +1,34 @@
+ h1{
+     font-family : Tahoma;
+     color : blue;
+     text-align : center; 
+     }
+body {
+     font-family : Courier New;
+     background-color : #faba5b;
+     color : #1f0a0a;
+    }
+p
+    {
+        text-align:center;
+    }
+img
+    {
+        width:130px;
+        height:150px;
+    }
+div
+    {
+        vertical-align:top;
+        padding: 5px;
+        border:2px solid black;
+        margin: 5px;
+        display:inline-block;
+        width:30%;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+.container
+    {
+        width:100%;
+    }
